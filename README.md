@@ -16,9 +16,9 @@ You should be able to access broadband connectivity on your terms, not theirs.
 
 ## The Device - Sunflower
 
-We will design and help distribute a device that allows users to easily build and extend mesh networks in their homes, offices, and anywhere else they want connectivity. The device should be placed near a window to receive a clear signal to the rest of the network.
+We will design and help distribute a device that allows users to easily build and extend mesh networks in their homes, offices, and anywhere else they want connectivity. The device will connect to your existing wifi network and should be placed near a window to receive a clear signal to the rest of the mesh network.
 
-[!Sunflower device sketch](http://cl.ly/image/3b2d2J0z2A1O/sunflower%20sketch.jpg)
+![Sunflower device sketch](http://cl.ly/image/3b2d2J0z2A1O/sunflower%20sketch.jpg)
 
 ## Nodes/Routing
 
@@ -26,9 +26,7 @@ Everyone becomes a 'mini-carrier' connected together via a wireless mesh network
 
 ## Scale
 
-Samll neighborhoods and other loosely connected groups will buy devices to join and extend the network. The device should be placed near a window (if one exists) and will connect to your existing wifi network, bridging it to nearby mesh devices if they exist. 
-
-We hope to start with neighborhoods that are near backbone providers to avoid paying money to entrenched carriers. 
+Samll neighborhoods and other loosely connected groups will buy/build devices to join and extend the network. We hope to start with neighborhoods that are near backbone providers to avoid paying money to entrenched carriers. 
 
 ## Bandwidth Usage
 
@@ -38,7 +36,7 @@ We could also see Netflix or other high bandwidth-consuming services placing pee
 
 ## Costs
 
-Initially, we will pay backbone providers for bandwidth to immediately connected nodes. At first, these edge nodes will most likely have to be installed by us, but we hope that evnetually backbone providers or users will purchase and install them to boost the strength of their network. 
+Initially, users will pay backbone providers for bandwidth to immediately connected nodes. At first, these 'last-mile' nodes will most likely have to be installed and maintained by us, but we hope that eventually backbone providers or users will purchase and install them to boost the strength of their network. 
 
 ## Security
 
@@ -46,11 +44,11 @@ The device will be security agnostic but support encrypted transport if requeste
 
 ## Network effects
 
-Aside from the obvious network effect of the network growing stronger, we suspect that small groups of citizens will band together to improve the density and quality of the network in their vicinity if we make the geographic distribution, density, and quality of connection publicly available. If your network just needs 2-3 additional nodes to reach a backbone provider, that would be a strong incentive to go recruit other users in the area who fall into that path.
+Aside from the obvious network effect of the network growing stronger as it becomes more dense, we suspect that small groups of citizens will band together to improve the density and quality of the network in their vicinity if we make the geographic distribution, density, and quality of connection publicly available. If your network just needs 2-3 additional nodes to reach a backbone provider, that would be a strong incentive to go recruit other users in the area who fall into that path.
 
 ## Licensing
 
-All software will be available for free and open sourced and we will do our best to offer the service as close to free as possible.
+All software will be available for free and open source and we will do our best to offer the service as close to free as possible.
 
 All hardware will be available both for sale and all designs will be available for free via the internet so anyone can download, modify, 3D print, or manufacture them.
 
@@ -65,6 +63,10 @@ I'm currently building a small prototype with an arduino system to test how the 
 
 
 # FAQ
+
+## Will the mesh network actually grow stronger with more nodes and not just become slower?
+
+In theory, but we need a prototype to verify this.
 
 ## Will anyone actually use a mesh network?
 

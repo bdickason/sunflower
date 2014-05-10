@@ -1,3 +1,5 @@
+*The latest version of this document will always live [in Github][1].*
+
 sunflower
 =========
 
@@ -18,7 +20,7 @@ You should be able to access broadband connectivity on your terms, not theirs.
 
 We will design and help distribute a device that allows users to easily build and extend mesh networks in their homes, offices, and anywhere else they want connectivity. The device will connect to your existing wifi network and should be placed near a window to receive a clear signal to the rest of the mesh network.
 
-![Sunflower device sketch](http://cl.ly/image/3b2d2J0z2A1O/sunflower%20sketch.jpg)
+![Sunflower device sketch](/uploads/default/1/ef6073f5b1cd1ce7.jpg)
 
 ## Nodes/Routing
 
@@ -62,6 +64,10 @@ I believe we can offer a clear value proposition which takes into account how mu
 I'm currently building a small prototype with an arduino system to test how the network scales and performs within a neighborhood. I will ask a few of my neighbors to share their internet connection and experiment with different ranges and forms of wireless technology.
 
 
-# [FAQ](faq.md)
+# [FAQ][2]
 
 # [Helpful Links](helpful_links.md)
+
+
+  [1]: https://github.com/bdickason/sunflower/blob/master/README.md
+  [2]: http://sunflower.link/t/frequently-asked-questions-faq/12

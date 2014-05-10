@@ -1,15 +1,15 @@
 sunflower
 =========
 
-The internet for everyone.
+We aim to empower everyday people to cut out the carriers via a distributed mesh network that connects directly to backbone providers, distributing the cost of bandwidth across the entire network.
 
 # Why?
 
 Carriers are charging huge monthly fees and intent on controlling and throttling the internet, ultimately creating a service you don't want. We believe that by distributing the transportation of bandwidth, we can bring costs down dramatically until they approach free.
 
-We aim to empower everyday people to cut out the carriers via a distributed mesh network that connects directly to backbone providers, distributing the cost of bandwidth across the entire network.
+The internet is a fundamental human right that all humans should control. Because of regulation and legislation, carriers have exclusivity in most residential and business areas, making them hard to displace. As more of day-to-day life moves online, carriers will increasingly attempt to monetize and control their pipes.
 
-The internet is a fundamental human right that all humans should have control over. Because of regulation and legislation, carriers have exclusivity in most residential and business areas, making them hard to displace. You should be able to access broadband connectivity you want on your terms, not theirs.
+You should be able to access broadband connectivity you want on your terms, not theirs.
 
 
 # How?
@@ -17,6 +17,8 @@ The internet is a fundamental human right that all humans should have control ov
 ## The Device - Sunflower
 
 We will build and help distribute a device that allows users to easily build and extend mesh networks in their homes, offices, and anywhere else they want connectivity. The device should be placed near a window to receive a clear signal to the rest of the network.
+
+[!Sunflower device sketch](http://cl.ly/image/3b2d2J0z2A1O)
 
 ## Nodes/Routing
 

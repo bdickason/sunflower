@@ -76,3 +76,11 @@ There are numerous mesh networks currently operating today. [The Red Hook Initia
 
 Carriers in Dallas rolled out DSL this way - with a zip code system calculating how close they your home was to their central office.
 
+
+
+# Helpful Links
+
+Here are some great links to read more about why this is such a big problem:
+
+* [Albert Wenger's "Building a Strong/Faster Web" talk](https://www.youtube.com/watch?v=qEnXIAdmfpM)
+* [Level 3 Networks - Observations of a Middle Man](http://blog.level3.com/global-connectivity/observations-internet-middleman/)

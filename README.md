@@ -18,7 +18,7 @@ You should be able to access broadband connectivity on your terms, not theirs.
 
 We will design and help distribute a device that allows users to easily build and extend mesh networks in their homes, offices, and anywhere else they want connectivity. The device should be placed near a window to receive a clear signal to the rest of the network.
 
-[!Sunflower device sketch](http://cl.ly/image/3b2d2J0z2A1O)
+[!Sunflower device sketch](http://cl.ly/image/3b2d2J0z2A1O/sunflower%20sketch.jpg)
 
 ## Nodes/Routing
 

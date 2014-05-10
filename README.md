@@ -7,22 +7,22 @@ We aim to empower everyday people to cut out the carriers via a distributed mesh
 
 Carriers are charging huge monthly fees and intent on controlling and throttling the internet, ultimately creating a service you don't want. We believe that by distributing the transportation of bandwidth, we can bring costs down dramatically until they approach free.
 
-The internet is a fundamental human right that all humans should control. Because of regulation and legislation, carriers have exclusivity in most residential and business areas, making them hard to displace. As more of day-to-day life moves online, carriers will increasingly attempt to monetize and control their pipes.
+The internet is a fundamental right/utility that all humans should control. Because of regulation and legislation, carriers have exclusivity in most residential and business areas, making them hard to displace. As more of day-to-day life moves online, carriers will increasingly attempt to monetize and constrict control of their pipes.
 
-You should be able to access broadband connectivity you want on your terms, not theirs.
+You should be able to access broadband connectivity on your terms, not theirs.
 
 
 # How?
 
 ## The Device - Sunflower
 
-We will build and help distribute a device that allows users to easily build and extend mesh networks in their homes, offices, and anywhere else they want connectivity. The device should be placed near a window to receive a clear signal to the rest of the network.
+We will design and help distribute a device that allows users to easily build and extend mesh networks in their homes, offices, and anywhere else they want connectivity. The device should be placed near a window to receive a clear signal to the rest of the network.
 
 [!Sunflower device sketch](http://cl.ly/image/3b2d2J0z2A1O)
 
 ## Nodes/Routing
 
-Everyone becomes a 'mini-carrier' connected together via a wireless mesh network.  As the nodes in the network grow more numerous and dense, the network grows more powerful. We are looking into the OpenGarden protocol as a base for mesh networking and 
+Everyone becomes a 'mini-carrier' connected together via a wireless mesh network.  As the nodes in the network grow more numerous and dense, the network grows more powerful. We are looking into the [OpenGarden](https://opengarden.com/) protocol as a base for mesh networking.
 
 ## Scale
 
@@ -42,7 +42,7 @@ Initially, we will pay backbone providers for bandwidth to immediately connected
 
 ## Security
 
-The device will be security agnostic but support encrypted transport if requested by the user or the user's application. In the case where we are using our bittorrent-style CDN to cache private (secure) content, it will have to be encrypted which may hurt network transfer speeds.
+The device will be security agnostic but support encrypted transport if requested by the user or the user's application.  In the case where we are using our bittorrent-style CDN to cache private (secure) content, we will need software similar to Tor to mask the content, entry point, and destination.
 
 ## Network effects
 
@@ -62,3 +62,15 @@ With absolute transparency, we hope to start a funding campaign in a few small n
 I believe we can offer a clear value proposition which takes into account how much bandwidth we need in an area to mimic a dialup connection, cable modem, etc. Makers and early prototypers can help spread the devices resulting in a low upfront cost to manufacture them.
 
 I'm currently building a small prototype with an arduino system to test how the network scales and performs within a neighborhood. I will ask a few of my neighbors to share their internet connection and experiment with different ranges and forms of wireless technology.
+
+
+# FAQ
+
+## Will anyone actually use a mesh network?
+
+There are numerous mesh networks currently operating today. [The Red Hook Initiative](http://rhicenter.org/redhookwifi/) (in Brooklyn) came about when the area was battered by a hurricane. Seattle has [Hyperboria](http://tkbr.ccsp.sfu.ca/pub802/2014/01/dakrnet-the-slow-internet-movement/) which contains hundreds of active nodes that are not connected to the internet.
+
+## Why are you just rolling it out in neighborhoods near broadband? Will this even work?
+
+Carriers in Dallas rolled out DSL this way - with a zip code system calculating how close they your home was to their central office.
+

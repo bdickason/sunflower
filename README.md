@@ -28,7 +28,7 @@ Everyone becomes a 'mini-carrier' connected together via a wireless mesh network
 
 ## Scale
 
-Samll neighborhoods and other loosely connected groups will buy/build devices to join and extend the network. We hope to start with neighborhoods that are near backbone providers to avoid paying money to entrenched carriers. 
+Small neighborhoods and other loosely connected groups will buy/build devices to join and extend the network. We hope to start with neighborhoods that are near backbone providers to avoid paying money to entrenched carriers. 
 
 ## Bandwidth Usage
 

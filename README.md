@@ -1,5 +1,7 @@
 *The latest version of this document will always live [in Github][1].*
 
+*If you want to know more, visit our website: http://sunflower.link*
+
 sunflower
 =========
 
